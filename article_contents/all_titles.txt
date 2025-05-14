@@ -1,0 +1,15 @@
+article_2608.csv: Re: [閒聊] 中信開戶
+article_1211.csv: [情報] 元大數位開戶+儲值送500
+article_1371.csv: [問題] 星展銀行開戶要200萬？
+article_517.csv: [心得] 106年警示帳戶 富邦不給開戶
+article_1159.csv: Re: [問題] 身分證被冒用開戶在聯徵的紀錄怎麼處理
+article_128.csv: [心得] 台中銀行非常保守，預約開戶被拒絕了 XD
+article_739.csv: Re: [討論] 王道銀行開戶討論(7/5已開戶成功)
+article_704.csv: [討論] 王道銀行開戶討論(7/5已開戶成功)
+article_1408.csv: [心得] 大陸開戶去哪裡開戶最方便也最便宜？
+article_493.csv: Re: [心得] 台中銀行非常保守，預約開戶被拒絕了 XD
+article_242.csv: [心得] 星展開戶失敗記
+article_731.csv: Re: [討論] 王道銀行開戶討論(7/5已開戶成功)
+article_755.csv: [閒聊] 如何讓家人開戶
+article_806.csv: [心得] HSBC HK線上開戶秒過(附HSBC AU成功心得)
+article_369.csv: Re: [心得] 台中銀行非常保守，預約開戶被拒絕了 XD
