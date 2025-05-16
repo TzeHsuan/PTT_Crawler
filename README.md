@@ -41,11 +41,11 @@ As part of the project I participated in NTHU DTDA, I was assigned a task to cra
 │   └── article_1159.csv<br>
 │   └── article_1211.csv<br>
 │   └── ........<br>
-├── ptt.py<br>
+├── ptt.py : scrapes all articles from 20023 onward and saves the result in ptt_articles.csv<br>
 ├── ptt_articles.csv<br>
-├── ptt_top15.py<br>
-├── toCSV.py<br>
-├── toTXT.py<br>
+├── ptt_top15.py : sorts ptt_articles.csv, finds the top 15 articles, and saves the results in the top15Articles folder <br>
+├── toCSV.py : reads all the files in the top15Articles folder, extracts the top 15 articles' title and corresponding file name <br>
+├── toTXT.py : reads all the files in the top15Articles folder and converts them into .txt <br>
 └── README.md
 
 ## ▶️ Getting Started
